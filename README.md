@@ -3,7 +3,7 @@ Grants are offered from the Ecosystem Fund to qualified partners, subject to ves
 
 Examples of applicants that are eligible to receive grants are:
 * Validators for the e-Money zone.
-* Wallet providers that commit to integrating current and future currency-backed tokens.
+* Wallet providers that commit to integrating current and future currency-backed tokens and/or the zone's exchange-functionality.
 * Exchanges that commit to listing current and future currency-backed tokens.
 * Applications using our currency-backed tokens, e.g. as a means of payment.
 
