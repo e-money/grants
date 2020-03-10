@@ -9,7 +9,7 @@ Examples of applicants that are eligible to receive grants are:
 
 Get in touch with partners@e-money.com to initiate the dialogue.
 
-## Validators for the e-Money Zone
+## Validators for the e-Money mainnet
 Grants will be offered for the first two years after mainnet launch and are intended as a supplement to the commission on [staking rewards](https://e-money.com/faq#what-are-the-ngm-staking-rewards).
 
 A fixed amount of NGM 2000 / month is paid out to the self-delegation address of each validator in the **active set**, which is limited to 40 validators. 
